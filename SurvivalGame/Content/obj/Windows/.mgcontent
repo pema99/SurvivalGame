@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Ejer/Documents/Visual Studio 2015/Projects/SurvivalGame/SurvivalGame/Content/Sprites/Beach.png</File>
+    <File>C:/Users/Ejer/Documents/Visual Studio 2015/Projects/SurvivalGame/SurvivalGame/Content/Sprites/Corn.png</File>
+    <File>C:/Users/Ejer/Documents/Visual Studio 2015/Projects/SurvivalGame/SurvivalGame/Content/Sprites/Diamond.png</File>
+    <File>C:/Users/Ejer/Documents/Visual Studio 2015/Projects/SurvivalGame/SurvivalGame/Content/Sprites/Flowers.png</File>
+    <File>C:/Users/Ejer/Documents/Visual Studio 2015/Projects/SurvivalGame/SurvivalGame/Content/Sprites/Gold.png</File>
+    <File>C:/Users/Ejer/Documents/Visual Studio 2015/Projects/SurvivalGame/SurvivalGame/Content/Sprites/Grass.png</File>
+    <File>C:/Users/Ejer/Documents/Visual Studio 2015/Projects/SurvivalGame/SurvivalGame/Content/Sprites/Iron.png</File>
+    <File>C:/Users/Ejer/Documents/Visual Studio 2015/Projects/SurvivalGame/SurvivalGame/Content/Sprites/Mountain.png</File>
+    <File>C:/Users/Ejer/Documents/Visual Studio 2015/Projects/SurvivalGame/SurvivalGame/Content/Sprites/Rice.png</File>
+    <File>C:/Users/Ejer/Documents/Visual Studio 2015/Projects/SurvivalGame/SurvivalGame/Content/Sprites/Rocks.png</File>
+    <File>C:/Users/Ejer/Documents/Visual Studio 2015/Projects/SurvivalGame/SurvivalGame/Content/Sprites/Snow.png</File>
+    <File>C:/Users/Ejer/Documents/Visual Studio 2015/Projects/SurvivalGame/SurvivalGame/Content/Sprites/Stone.png</File>
+    <File>C:/Users/Ejer/Documents/Visual Studio 2015/Projects/SurvivalGame/SurvivalGame/Content/Sprites/Strawberries.png</File>
+    <File>C:/Users/Ejer/Documents/Visual Studio 2015/Projects/SurvivalGame/SurvivalGame/Content/Sprites/TallGrass.png</File>
+    <File>C:/Users/Ejer/Documents/Visual Studio 2015/Projects/SurvivalGame/SurvivalGame/Content/Sprites/Trees.png</File>
+    <File>C:/Users/Ejer/Documents/Visual Studio 2015/Projects/SurvivalGame/SurvivalGame/Content/Sprites/Water.png</File>
+    <File>C:/Users/Ejer/Documents/Visual Studio 2015/Projects/SurvivalGame/SurvivalGame/Content/Sprites/Wheat.png</File>
+    <File>C:/Users/Ejer/Documents/Visual Studio 2015/Projects/SurvivalGame/SurvivalGame/Content/Courier New.spritefont</File>
+    <File>C:/Users/Ejer/Documents/Visual Studio 2015/Projects/SurvivalGame/SurvivalGame/Content/Sprites/Survivor.png</File>
+  </SourceFiles>
+</SourceFileCollection>

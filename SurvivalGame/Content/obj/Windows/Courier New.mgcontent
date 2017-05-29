@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Ejer/Documents/Visual Studio 2015/Projects/SurvivalGame/SurvivalGame/Content/Courier New.spritefont</SourceFile>
+  <SourceTime>2017-05-10T19:08:59.1136267+02:00</SourceTime>
+  <DestFile>C:/Users/Ejer/Documents/Visual Studio 2015/Projects/SurvivalGame/SurvivalGame/Content/bin/Windows/Courier New.xnb</DestFile>
+  <DestTime>2017-05-10T21:43:07.8316231+02:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2016-03-30T08:36:08+02:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2016-03-30T08:36:08+02:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
